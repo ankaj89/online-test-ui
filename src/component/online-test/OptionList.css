@@ -1,0 +1,21 @@
+.option-container{
+   border:0px solid blue;
+   margin:15px 30px;
+      
+}
+.row{
+	 display: flex;
+	 margin-bottom:2px;
+	 width:200px;
+	
+}
+
+.column{
+	padding-left:4px;
+}
+
+.group{
+	display: flex; 
+	gap:5px;
+	margin-bottom:10px;
+}

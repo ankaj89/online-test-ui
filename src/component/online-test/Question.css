@@ -1,0 +1,16 @@
+.container{
+   max-width:500px;
+   min-width:300px;
+   border:0px solid blue;
+   margin:auto;
+   padding:1px;
+   position:relative;
+    
+}
+
+.question{
+	display:inline-block;
+	width:496px;
+	padding:2px;
+	background-color:#b1b1b1;
+}
